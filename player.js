@@ -1,5 +1,5 @@
 const WebSocket = require("ws");
-const ProxyAgent = require('proxy-agent');
+//const ProxyAgent = require('proxy-agent');
 
 
 //Buffer mod
